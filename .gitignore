@@ -1,0 +1,13 @@
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local netlify metadata (if ever used)
+.netlify/
+
+# Dist caches
+node_modules/
+dist/
